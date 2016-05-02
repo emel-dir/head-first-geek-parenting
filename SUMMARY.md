@@ -1,6 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [Unsolicited feedback](chapter1.md)
+* [Unsolicited feedback](unsolicited_feedback.md)
 * [Is inclusion even possible?](is_inclusion_even_possible.md)
 
