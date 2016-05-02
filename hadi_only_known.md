@@ -4,7 +4,7 @@
 
 ### Buying
 
-First and foremost: Don't! I know it's hard, there's so many things out there telling you they are must-haves. Most likely they weren't available when you were raised, nor when your parents or grand-parents grew up. It's highly unlikely you need them.
+First and foremost: Don't! I know it's hard, there's so many things out there telling you they are must-haves. Most likely they weren't available when you were raised, nor when your parents or grand-parents grew up. It's highly unlikely you need them. other stuff
 
 
 ### Reading
