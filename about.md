@@ -1,4 +1,4 @@
-# Who are you reading?
+# Getting started 
 
 The goal for this book is to be a compilation of content received through pull
 requests on github. This page is dedicated to those participating. If you want
@@ -46,3 +46,6 @@ from Murphy's computer laws), getting into a decent computer science student
 group, getting a boyfriend and now husband who was into systems engineering,
 getting in touch with the hacker community, the open source community, the free
 software community, the big data people is history by now.
+
+I guess overall the typical tech story you hear all over the place - getting
+your hands dirty early sets you off on a very advantageous foot.
