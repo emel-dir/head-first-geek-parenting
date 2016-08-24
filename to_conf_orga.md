@@ -49,5 +49,31 @@ specific and may not be available in your location. One point for telling
 parents where to get baby food close to your venue, bonus points for being able
 to answer questions wrt. to the type of baby food on sale.
 
+* Bonus points for telling parents about car seat regulations and how to get a
+taxi/ shuttle service from the airport with one. Extra bonus points for being
+able to point out play grounds, zoo, parks that are child friendly and telling
+where not to go.
+
+
+## On making life easier
+
+It helps to have some sort of food and drinks supply continuously (Froscon is famous
+for their VIP speaker/ organiser/ exhibitor lounge - really bread, water, apples,
+bananas and such help a great deal.
+
+It helps to have free entry for whoever is watching after the child.
+ 
+If the child is <2y and stays for meals it helps tremendously to have child
+highchairs, those from Ikea are stackable, you can put them under a shower to
+get them cleaned and super-cheap (10,- one chair) so I would not want one
+permanently at home they might be nice for conferences.
+
+A separate play room is nice - better yet in my experience: Have a Lego Duplo
+corner in the sponsoring area. Babysitter can stay close, other attendees will
+play as well, gives more time for uninterrupted chatting.
+
+Official babysitting services make sense really only starting at age of 3 or so
+I have been told - children will accept a babysitter, but only after some initial
+playtime with whoever they know already and the babysitter before.
 
 
