@@ -30,8 +30,8 @@ and for the first time play pinball on one of their computers. I won and broke
 the highscore of my cousin. After that all I wanted for birthday and Christmas
 was a computer of my own. My parents were clever enough to wait for the wish to
 re-appear consitantly, after all those machines were pretty pricy back then.
-They were also clever enough to avoid purchasing one of those learning computers
-- instead I got an Amiga 500. Luckily another girl in our class had the same
+They were also clever enough to avoid purchasing one of those learning
+computers, instead I got an Amiga 500. Luckily another girl in our class had the same
 model, so we could exchange games - until none were produced any more at which
 point in time I decided to write my own.
 
